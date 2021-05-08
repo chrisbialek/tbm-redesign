@@ -2060,3 +2060,4 @@ var JetboostInit = function () {
         console.log("Ignoring extra Jetboost script")
     }
 }();
+JetboostInit("https://cdn.jsdelivr.net/gh/chrisbialek/tbm-redesign@main/jquery3-5-1.js");
