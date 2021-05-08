@@ -2060,4 +2060,3 @@ var JetboostInit = function () {
         console.log("Ignoring extra Jetboost script")
     }
 }();
-JetboostInit("https://api.jetboost.io/");
